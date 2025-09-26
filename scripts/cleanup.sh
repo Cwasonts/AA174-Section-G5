@@ -2,4 +2,4 @@
 
 gh auth logout
 
-rm -r ~/autonomy_ws
+rm -rf ~/autonomy_ws
